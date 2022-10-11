@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashu00026
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Backend Development.
 - 🌱 I’m currently learning NodeJs
 - 📫 How to reach me 19341a1207@gmrit.edu.in
 
