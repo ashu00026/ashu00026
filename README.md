@@ -54,11 +54,6 @@
     <td><a href="url"><img src="https://github.com/arun1118/arun1118/assets/72092835/6f109dd0-7d0c-4b91-8755-1d0903454cdb" align="center" height="50" width="100" ></a></td>
   </tr>
 </table>
-<br/>
-<br/>
-<br/>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashu00026&show_icons=true&locale=en&layout=compact&theme=radical" alt="Arun Github" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashu00026&show_icons=true&locale=en&layout=compact&theme=radical" alt="Ashu Github" /></p>
 
 <!-- https://github-readme-stats.vercel.app/api?username=arun1118&theme=radical -->
