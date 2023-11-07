@@ -25,7 +25,7 @@
     <td><a href="https://leetcode.com/Ashu0007/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Ashu Leetcode" height="60" width="60" /></a></td>
     <td><a href="https://codeforces.com/profile/ashutoshpanigrahi27.7" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3629285-3031869.png?f=webp" alt="Ashu Codeforces" height="60" width="50" /></a></td>
     <td><a href="https://auth.geeksforgeeks.org/user/ashutoshpanigrahi277/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/1024px-GeeksforGeeks.svg.png" alt="Ashu gfg" height="50" width="90" /></a></td>
-    <td><a href="https://www.codingninjas.com/studio/profile/e1150bfe-b91e-4364-97f8-33b9570572e8" target="blank"><img align="center" src="" alt="Ashu codingNinja" height="60" width="150" /></a></td>
+    <td><a href="https://www.codingninjas.com/studio/profile/e1150bfe-b91e-4364-97f8-33b9570572e8" target="blank"><img align="center" src="https://github.com/ashu00026/ashu00026/blob/main/logos/CodingNinjaspng" alt="Ashu codingNinja" height="60" width="150" /></a></td>
   </tr>
 </table>
 
